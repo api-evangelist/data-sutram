@@ -1,0 +1,23 @@
+generated: '2026-07-18'
+method: searched
+source: https://datasutram.ai/
+note: >-
+  Certifications and compliance posture published as badges on the Data Sutram
+  homepage. No OpenAPI is available for this provider, so cross-cutting API
+  standards (oauth2/oidc/rfc9457/etc.) cannot be asserted; only the published
+  organizational security/compliance certifications are recorded here.
+standards:
+  - id: iso-27001
+    conforms: true
+    evidence: ISO 27001 certification badge published on datasutram.ai
+  - id: iso-27018
+    conforms: true
+    evidence: ISO 27018 certification badge published on datasutram.ai
+  - id: soc-2
+    conforms: true
+    evidence: SOC 2 certification badge published on datasutram.ai
+  - id: dpdp
+    conforms: true
+    evidence: >-
+      DPDP (India Digital Personal Data Protection Act) compliance stated on
+      datasutram.ai
