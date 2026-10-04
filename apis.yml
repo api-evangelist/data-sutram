@@ -49,9 +49,9 @@ modified: '2026-07-18'
 image: https://datasutram.ai/favicon.ico
 tags:
 - Company
-- Fraud Detection
+- Fraud Prevention
 - Identity Verification
-- Financial-Services
+- Financial Services
 - Data Intelligence
 - Address Verification
 - Credit Risk
@@ -69,6 +69,7 @@ tags_raw:
 - Collections
 - Artificial Intelligence
 - India
+- Financial-Services
 apis: []
 common:
 - type: DomainSecurity
